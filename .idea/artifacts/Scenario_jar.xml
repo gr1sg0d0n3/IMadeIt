@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="Scenario:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/Scenario_jar</output-path>
+    <root id="archive" name="Scenario.jar">
+      <element id="module-output" name="Scenario" />
+    </root>
+  </artifact>
+</component>
